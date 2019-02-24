@@ -91,3 +91,6 @@
 # 9. Class Distribution:
      DIE: 32
     LIVE: 123
+
+via 
+# https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/hepatitis.names
